@@ -1,4 +1,4 @@
-# Rent Calculator
+# [Rent Calculator](https://github.com/hainguyen1511/C-plus-plus/blob/main/Nguyen-Hai-prog1.cpp)
 * Algorithm for the rental calculating program
 > [!NOTE] 
 > Step 1 – I will print the “Welcome the user to calculator”.
